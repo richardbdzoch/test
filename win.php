@@ -24,6 +24,10 @@ edited
 $text->addAttribute("style", "list_text");
 $text->addAttribute("align", "left");
 
-addHeader($bml, $app_settings);
+added
+added
+
+
+addHe edited tings);
 addFooterMenu($bml, $app_settings); 
 ?>
