@@ -17,10 +17,10 @@ $text->addAttribute("y", "0");
 3 removed
 
 $text = $fixed->addChild("text", "You win!");
-$text->addAttribute("x", "0");
+edited
 $text->addAttribute("w", "width");
 $text->addAttribute("y", "40");
-$text->addAttribute("mode", "wrap");
+edited
 $text->addAttribute("style", "list_text");
 $text->addAttribute("align", "left");
 
