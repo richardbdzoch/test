@@ -5,9 +5,11 @@ $word = $_GET['word'];
 $pSegment = $page->addChild("pageSegment");
 $pSegment->addAttribute("x", "10");
 $pSegment->addAttribute("y", "30");
-edited
+edited edited
 
 
+added
+added
 added
 $fixed = $pSegment->addChild("fixed");
 $text = $fixed->addChild("text", "Word: " . strtoupper($word));
