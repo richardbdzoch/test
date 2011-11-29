@@ -10,18 +10,14 @@ edited edited
 
 added
 added
-added
+edited
 $fixed = $pSegment->addChild("fixed");
 $text = $fixed->addChild("text", "Word: " . strtoupper($word));
-$text->addAttribute("x", "0");
-$text->addAttribute("w", "width");
 $text->addAttribute("y", "0");
 3 removed
 
 $text = $fixed->addChild("text", "You win!");
 edited
-$text->addAttribute("w", "width");
-$text->addAttribute("y", "40");
 edited
 $text->addAttribute("style", "list_text");
 $text->addAttribute("align", "left");
