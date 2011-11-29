@@ -7,14 +7,16 @@ $pSegment->addAttribute("x", "10");
 $pSegment->addAttribute("y", "30");
 edited edited
 
+blabla
 
+
+
+blablabla
 added
 added
 edited
 $fixed = $pSegment->addChild("fixed");
 $text = $fixed->addChild("text", "Word: " . strtoupper($word));
-$text->addAttribute("y", "0");
-3 removed
 
 $text = $fixed->addChild("text", "You win!");
 edited
