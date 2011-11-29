@@ -1,10 +1,6 @@
 <?php
 
 $word = $_GET['word'];
-
-$pSegment = $page->addChild("pageSegment");
-$pSegment->addAttribute("x", "10");
-$pSegment->addAttribute("y", "30");
 edited edited
 
 blabla
